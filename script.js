@@ -1,10 +1,10 @@
 const candlesContainer = document.getElementById('candles-container');
 const displayPositiveMessages = () => {
   const messages = [
-    "Life is truly a ride. I am happy to share this friendship with you.",
-    "Thanks for always being such a great friend.",
-    "Hoping this year brings you lots of joy, health, and happiness. You deserve it!",
-    "Stay safe and always keep smiling. Your happiness and laugh brings joy to everyone around you."
+    "🎢 Life's a thrilling ride, and I'm so glad we're on it together! 🎡",
+    "Thanks for being an amazing friend you're truly the best!🌟.",
+    "Wishing you a year filled with joy, health, and all the happiness you deserve! 🎉🍀",
+    "Stay safe and always keep smiling. Your happiness and laugh brings joy to everyone around you.😊💫"
   ];
 
   const messageContainer = document.createElement('div');
